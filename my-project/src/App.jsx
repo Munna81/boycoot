@@ -50,7 +50,59 @@ import IMPOLOTION11 from "./assets/Lotion/import/Lotion11.webp";
 import IMPOLOTION12 from "./assets/Lotion/import/Lotion12.webp";
 import IMPOLOTION13 from "./assets/Lotion/import/Lotion13.webp";
 import IMPOLOTION14 from "./assets/Lotion/import/Lotion14.jfif";
-
+import LOCALOTION from "./assets/Lotion/Local/Local.jfif";
+import LOCALOTION2 from "./assets/Lotion/Local/Local2.jfif";
+import LOCALOTION3 from "./assets/Lotion/Local/Local3.webp";
+import LOCALOTION4 from "./assets/Lotion/Local/Local4.webp";
+import LOCALOTION5 from "./assets/Lotion/Local/Local5.webp";
+import LOCALOTION6 from "./assets/Lotion/Local/Local6.webp";
+import LOCALOTION7 from "./assets/Lotion/Local/Local7.webp";
+import LOCALOTION8 from "./assets/Lotion/Local/Local8.webp";
+import LOCALOTION9 from "./assets/Lotion/Local/Local9.webp";
+import BODYWASH from "./assets/body wash/import/body wash.jpg";
+import LOCALWASH  from "./assets/body wash/local/Local wash.jpg";
+import BODYWASH2 from "./assets/body wash/import/body wash2.webp";
+import LOCALWASH2  from "./assets/body wash/local/Local wash2.webp";
+import BODYWASH3 from "./assets/body wash/import/body wash3.webp";
+import LOCALWASH3  from "./assets/body wash/local/Local wash3.webp";
+import BODYWASH4 from "./assets/body wash/import/body wash4.webp";
+import LOCALWASH4  from "./assets/body wash/local/Local wash4.webp";
+import BODYWASH5 from "./assets/body wash/import/body wash5.webp";
+import LOCALWASH5  from "./assets/body wash/local/Local wash5.webp";
+import BODYWASH6 from "./assets/body wash/import/body wash6.webp";
+import LOCALWASH6  from "./assets/body wash/local/Local wash6.webp";
+import BODYWASH7 from "./assets/body wash/import/body wash7.webp";
+import BODYWASH8 from "./assets/body wash/import/body wash8.webp";
+import BODYWASH9 from "./assets/body wash/import/body wash9.webp";
+import BODYWASH10 from "./assets/body wash/import/body wash10.webp";
+import BODYWASH11 from "./assets/body wash/import/body wash11.webp";
+import BODYWASH12 from "./assets/body wash/import/body wash12.webp";
+import BODYWASH13 from "./assets/body wash/import/body wash13.webp";
+import BODYWASH14 from "./assets/body wash/import/body wash14.webp";
+import BODYWASH15 from "./assets/body wash/import/body wash15.webp";
+import BODYWASH16 from "./assets/body wash/import/body wash16.webp";
+import AIRIM from "./assets/air freshner/import/Air.webp";
+import AIRIM2 from "./assets/air freshner/import/Air2.webp" ;
+import AIRIM3 from "./assets/air freshner/import/Air3.webp" ; 
+import LOCALAIR from "./assets/air freshner/local/Air.webp";
+import LOCALAIR2 from "./assets/air freshner/local/Air2.webp";
+import LOCALAIR3 from "./assets/air freshner/local/Air3.webp";
+import LOCALAIR4 from "./assets/air freshner/local/Air4.webp";
+import LOCALAIR5 from "./assets/air freshner/local/Air5.webp";
+import LOCALAIR6 from "./assets/air freshner/local/Air6.webp";
+import BABYIMPO from "./assets/baby wipe/import/Baby.webp";
+import LOCALWIPE from "./assets/baby wipe/local/Baby.webp";
+import LOCALWIPE2 from "./assets/baby wipe/local/Baby2.webp";
+import LOCALWIPE3 from "./assets/baby wipe/local/Baby3.webp";
+import LOCALWIPE4 from "./assets/baby wipe/local/Baby4.webp";
+import LOCALWIPE5 from "./assets/baby wipe/local/Baby5.webp";
+import LOCALWIPE6 from "./assets/baby wipe/local/Baby6.webp";
+import BATAREYIMP from "./assets/batarey/import /batarey.webp"
+import BATAREYIMP2 from "./assets/batarey/import /batarey2.webp";
+import BATAREYIMP3 from "./assets/batarey/import /batarey3.webp";
+import BATARYLOCAL from "./assets/batarey/local/batarey.webp";
+import BATARYLOCAL2 from "./assets/batarey/local/batarey2.webp";
+import BATARYLOCAL3 from "./assets/batarey/local/batarey3.webp";
 
 export default function App() {
   const [bookList] = useState([
@@ -109,14 +161,23 @@ export default function App() {
       title: "BODY LOTION",
       Image: [
         { url: IMPOLOTION, caption: "SOAP - International Product" },
+        { url: LOCALOTION, caption: "SOAP - Local Product" },
         { url: IMPOLOTION2, caption: "SOAP - International Product" },
+        { url: LOCALOTION2, caption: "SOAP - Local Product" },
         { url: IMPOLOTION3, caption: "SOAP - International Product" },
+        { url: LOCALOTION3, caption: "SOAP - Local Product" },
         { url: IMPOLOTION4, caption: "SOAP - International Product" },
+        { url: LOCALOTION4, caption: "SOAP - Local Product" },
         { url: IMPOLOTION5, caption: "SOAP - International Product" },
+        { url: LOCALOTION5, caption: "SOAP - Local Product" },
         { url: IMPOLOTION6, caption: "SOAP - International Product" },
+        { url: LOCALOTION6, caption: "SOAP - Local Product" },
         { url: IMPOLOTION7, caption: "SOAP - International Product" },
+        { url: LOCALOTION7, caption: "SOAP - Local Product" },
         { url: IMPOLOTION8, caption: "SOAP - International Product" },
+        { url: LOCALOTION8, caption: "SOAP - Local Product" },
         { url: IMPOLOTION9, caption: "SOAP - International Product" },
+        { url: LOCALOTION9, caption: "SOAP - Local Product" },
         { url: IMPOLOTION10, caption: "SOAP - International Product" },
         { url: IMPOLOTION11, caption: "SOAP - International Product" },
         { url: IMPOLOTION12, caption: "SOAP - International Product" },
@@ -127,42 +188,74 @@ export default function App() {
     },
     {
       id: 4,
-      title: "OIL",
+      title: "BODY WASH",
       Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
+        { url: BODYWASH, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH, caption: "Body Wash - Local Product" },
+        { url: BODYWASH2, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH2, caption: "Body Wash - Local Product" },
+        { url: BODYWASH3, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH3, caption: "Body Wash - Local Product" },
+        { url: BODYWASH4, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH4, caption: "Body Wash - Local Product" },
+        { url: BODYWASH5, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH5, caption: "Body Wash - Local Product" },
+        { url: BODYWASH6, caption: "Body Wash  - International Product" },
+        { url: LOCALWASH6, caption: "Body Wash - Local Product" },
+        { url: BODYWASH7, caption: "Body Wash  - International Product" },
+        { url: BODYWASH8, caption: "Body Wash  - International Product" },
+        { url: BODYWASH9, caption: "Body Wash  - International Product" },
+        { url: BODYWASH10, caption: "Body Wash  - International Product" },
+        { url: BODYWASH11, caption: "Body Wash  - International Product" },
+        { url: BODYWASH12, caption: "Body Wash  - International Product" },
+        { url: BODYWASH13, caption: "Body Wash  - International Product" },
+        { url: BODYWASH14, caption: "Body Wash  - International Product" },
+        { url: BODYWASH15, caption: "Body Wash  - International Product" },
+        { url: BODYWASH16, caption: "Body Wash  - International Product" }
+        
       ]
     },
     {
       id: 5,
-      title: "CREAM",
+      title: "AIR FRESHNER",
       Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
+       { url: AIRIM, caption: "Air Freshner - International Product" },
+       { url: LOCALAIR, caption: "Air Freshner - Local Product" },
+       { url: AIRIM2, caption: "Air Freshner - International Product" },
+       { url: LOCALAIR2, caption: "Air Freshner - Local Product" },
+       { url: AIRIM3, caption: "Air Freshner - International Product" },
+       { url: LOCALAIR3, caption: "Air Freshner - Local Product" },
+       { url: LOCALAIR4, caption: "Air Freshner - Local Product" },
+       { url: LOCALAIR5, caption: "Air Freshner - Local Product" },
+       { url: LOCALAIR6, caption: "Air Freshner - Local Product" }
+       
+
+       
       ]
     },
     {
       id: 6,
-      title: "LOTION",
+      title: "BABY WIPE",
       Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
+        { url: BABYIMPO, caption: "Baby Wipe - International Product" },
+        { url: LOCALWIPE, caption: "Baby Wipe - Local Product" },
+        { url: LOCALWIPE2, caption: "Baby Wipe - Local Product" },
+        { url: LOCALWIPE3, caption: "Baby Wipe - Local Product" },
+        { url: LOCALWIPE4, caption: "Baby Wipe - Local Product" },
+        { url: LOCALWIPE5, caption: "Baby Wipe - Local Product" },
+        { url: LOCALWIPE6, caption: "Baby Wipe - Local Product" },
+        ]
     },
     {
       id: 7,
-      title: "DRINK",
+      title: "BATARREY",
       Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
+        { url: BATAREYIMP, caption: "Batarrey - International Product" },
+        { url: BATARYLOCAL, caption: "Batarrey - Local Product" },
+        { url: BATAREYIMP2, caption: "Batarrey - International Product" },
+        { url: BATARYLOCAL2, caption: "Batarrey - Local Product" },
+        { url: BATAREYIMP3, caption: "Batarrey - International Product" },
+        { url: BATARYLOCAL3, caption: "Batarrey - Local Product" }
       ]
     },
     {
