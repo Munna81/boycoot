@@ -124,6 +124,20 @@ import LOCALDIA2 from "./assets/diper/local/Diaper2.jpg";
 import LOCALDIA3 from "./assets/diper/local/Diaper3.webp";
 import LOCALDIA4 from "./assets/diper/local/Diaper4.webp";
 import LOCALDIA5 from "./assets/diper/local/Diaper5.webp";
+import DISHIMPO from "./assets/dishwash/import/Dishwash.webp";
+import DISHIMPO2 from "./assets/dishwash/import/Dishwash2.webp";
+import DISHIMPO3 from "./assets/dishwash/import/Dishwash3.webp";
+import DISHIMPO4 from "./assets/dishwash/import/Dishwash4.webp";
+import DISHIMPO5 from "./assets/dishwash/import/Dishwash5.webp";
+import LOCADISH  from "./assets/dishwash/local/Dishwash.webp";
+import LOCADISH2  from "./assets/dishwash/local/Dishwash2.webp";
+import LOCADISH3  from "./assets/dishwash/local/Dishwash3.webp";
+import LOCADISH4  from "./assets/dishwash/local/Dishwash4.webp";
+import LOCADISH5  from "./assets/dishwash/local/Dishwash5.webp";
+import LOCADISH6  from "./assets/dishwash/local/Dishwash6.webp";
+import LOCADISH7  from "./assets/dishwash/local/Dishwash7.webp";
+import LOCADISH8  from "./assets/dishwash/local/Dishwash8.webp";
+import LOCADISH9  from "./assets/dishwash/local/Dishwash9.webp";
 
 
 export default function App() {
@@ -313,6 +327,26 @@ export default function App() {
         { url: LOCALDIA5, caption: "Diaper - Local Product" }
         
         
+      ]
+    },
+    {
+      id: 10,
+      title: "DISH WASH",
+      Image: [
+        { url: DISHIMPO, caption: "Dish wash - International Product" },
+        { url: LOCADISH, caption: "Dish wash - Local Product" },
+        { url: DISHIMPO2, caption: "Dish wash - International Product" },
+        { url: LOCADISH2, caption: "Dish wash - Local Product" },
+        { url: DISHIMPO3, caption: "Dish wash - International Product" },
+        { url: LOCADISH3, caption: "Dish wash - Local Product" },
+        { url: DISHIMPO4, caption: "Dish wash - International Product" },
+        { url: LOCADISH4, caption: "Dish wash - Local Product" },
+        { url: DISHIMPO5, caption: "Dish wash - International Product" },
+        { url: LOCADISH5, caption: "Dish wash - Local Product" },
+        { url: LOCADISH6, caption: "Dish wash - Local Product" },
+        { url: LOCADISH7, caption: "Dish wash - Local Product" },
+        { url: LOCADISH8, caption: "Dish wash - Local Product" },
+        { url: LOCADISH9, caption: "Dish wash - Local Product" }
       ]
     },
   ]);
