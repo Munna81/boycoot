@@ -103,6 +103,28 @@ import BATAREYIMP3 from "./assets/batarey/import /batarey3.webp";
 import BATARYLOCAL from "./assets/batarey/local/batarey.webp";
 import BATARYLOCAL2 from "./assets/batarey/local/batarey2.webp";
 import BATARYLOCAL3 from "./assets/batarey/local/batarey3.webp";
+import CONDIMPO from "./assets/conditioner/import/conditioner.avif"
+import CONDIMPO2 from "./assets/conditioner/import/conditioner2.webp"
+import CONDIMPO3 from "./assets/conditioner/import/conditioner3.webp"
+import CONDIMPO4 from "./assets/conditioner/import/conditioner4.webp"
+import CONDIMPO5 from "./assets/conditioner/import/conditioner5.webp"
+import CONDIMPO6 from "./assets/conditioner/import/conditioner6.webp"
+import CONDIMPO7 from "./assets/conditioner/import/conditioner7.webp"
+import CONDIMPO8 from "./assets/conditioner/import/conditioner8.webp"
+import LOCALCONDI from "./assets/conditioner/local/conditioner.webp";
+import LOCALCONDI2 from "./assets/conditioner/local/conditioner2.avif";
+import LOCALCONDI3 from "./assets/conditioner/local/conditioner3.webp";
+import LOCALCONDI4 from "./assets/conditioner/local/conditioner4.webp";
+import DIAIMPO from "./assets/diper/import/Diaper.webp";
+import DIAIMPO2 from "./assets/diper/import/Diaper2.webp";
+import DIAIMPO3 from "./assets/diper/import/Diaper3.webp";
+import DIAIMPO4 from "./assets/diper/import/Diaper4.webp";
+import LOCALDIA from "./assets/diper/local/Diaper.jpg";
+import LOCALDIA2 from "./assets/diper/local/Diaper2.jpg";
+import LOCALDIA3 from "./assets/diper/local/Diaper3.webp";
+import LOCALDIA4 from "./assets/diper/local/Diaper4.webp";
+import LOCALDIA5 from "./assets/diper/local/Diaper5.webp";
+
 
 export default function App() {
   const [bookList] = useState([
@@ -260,12 +282,37 @@ export default function App() {
     },
     {
       id: 8,
-      title: "TEA",
+      title: "CONDITIONER",
       Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
+        { url: CONDIMPO, caption: "Conditioner - International Product" },
+        { url: LOCALCONDI, caption: "Conditioner - Local Product" },
+        { url: CONDIMPO2, caption: "Conditioner - International Product" },
+        { url: LOCALCONDI2, caption: "Conditioner - Local Product" },
+        { url: CONDIMPO3, caption: "Conditioner - International Product" },
+        { url: LOCALCONDI3, caption: "Conditioner - Local Product" },
+        { url: CONDIMPO4, caption: "Conditioner - International Product" },
+        { url: LOCALCONDI4, caption: "Conditioner - Local Product" },
+        { url: CONDIMPO5, caption: "Conditioner - International Product" },
+        { url: CONDIMPO6, caption: "Conditioner - International Product" },
+        { url: CONDIMPO7, caption: "Conditioner - International Product" },
+        { url: CONDIMPO8, caption: "Conditioner - International Product" },
+      ]
+    },
+    {
+      id: 9,
+      title: "DIAPER",
+      Image: [
+        { url: DIAIMPO, caption: "Diaper - International Product" },
+        { url: LOCALDIA, caption: "Diaper - Local Product" },
+        { url: DIAIMPO2, caption: "Diaper - International Product" },
+        { url: LOCALDIA2, caption: "Diaper - Local Product" },
+        { url: DIAIMPO3, caption: "Diaper - International Product" },
+        { url: LOCALDIA3, caption: "Diaper - Local Product" },
+        { url: DIAIMPO4, caption: "Diaper - International Product" },
+        { url: LOCALDIA4, caption: "Diaper - Local Product" },
+        { url: LOCALDIA5, caption: "Diaper - Local Product" }
+        
+        
       ]
     },
   ]);
