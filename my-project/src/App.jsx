@@ -138,6 +138,89 @@ import LOCADISH6  from "./assets/dishwash/local/Dishwash6.webp";
 import LOCADISH7  from "./assets/dishwash/local/Dishwash7.webp";
 import LOCADISH8  from "./assets/dishwash/local/Dishwash8.webp";
 import LOCADISH9  from "./assets/dishwash/local/Dishwash9.webp";
+import BISCUITIM  from "./assets/biscuit/import/biscuit.webp";
+import LOCABIS  from "./assets/biscuit/local/biscuit.webp";
+import LOCABIS2  from "./assets/biscuit/local/biscuit2.webp";
+import LOCABIS3  from "./assets/biscuit/local/biscuit3.webp";
+import LOCABIS4  from "./assets/biscuit/local/biscuit4.webp";
+import LOCABIS5  from "./assets/biscuit/local/biscuit5.webp";
+import LOCABIS6  from "./assets/biscuit/local/biscuit6.webp";
+import LOCABIS7  from "./assets/biscuit/local/biscuit7.webp";
+import LOCABIS8  from "./assets/biscuit/local/biscuit8.webp";
+import LOCABIS9  from "./assets/biscuit/local/biscuit9.webp";
+import LOCABIS10  from "./assets/biscuit/local/biscuit10.webp";
+import LOCABIS11  from "./assets/biscuit/local/biscuit11.webp";
+import LOCABIS12  from "./assets/biscuit/local/biscuit12.webp";
+import LOCABIS13  from "./assets/biscuit/local/biscuit13.webp";
+import LOCABIS14  from "./assets/biscuit/local/biscuit14.webp";
+import CANIMPO from "./assets/candy/import/candy.webp";
+import CANIMPO2 from "./assets/candy/import/candy2.webp";
+import CANIMPO3 from "./assets/candy/import/candy3.webp";
+import CANIMPO4 from "./assets/candy/import/candy4.webp";
+import CANIMPO5 from "./assets/candy/import/candy5.webp";
+import CANIMPO6 from "./assets/candy/import/candy6.webp";
+import LOCANDY  from "./assets/candy/Local/candy.webp";
+import LOCANDY2  from "./assets/candy/Local/candy2.webp";
+import LOCANDY3  from "./assets/candy/Local/candy3.webp"; 
+import CHOCIMPO from "./assets/chocolate/import/chocolate.webp";
+import CHOCIMPO2 from "./assets/chocolate/import/chocolate2.webp";
+import CHOCIMPO3 from "./assets/chocolate/import/chocolate3.webp";
+import CHOCIMPO4 from "./assets/chocolate/import/chocolate4.webp";
+import CHOCIMPO5 from "./assets/chocolate/import/chocolate5.webp";
+import CHOCIMPO6 from "./assets/chocolate/import/chocolate6.webp";
+import CHOCIMPO7 from "./assets/chocolate/import/chocolate7.webp";
+import CHOCIMPO8 from "./assets/chocolate/import/chocolate8.webp";
+import CHOCIMPO9 from "./assets/chocolate/import/chocolate9.webp";
+import LOCACHOC from "./assets/chocolate/local/chocolate.webp";
+import LOCACHOC2 from "./assets/chocolate/local/chocolate2.webp";
+import LOCACHOC3 from "./assets/chocolate/local/chocolate3.webp";
+import LOCACHOC4 from "./assets/chocolate/local/chocolate4.webp";
+import LOCACHOC5 from "./assets/chocolate/local/chocolate5.webp";
+import LOCACHOC6 from "./assets/chocolate/local/chocolate6.webp";
+import LOCACHOC7 from "./assets/chocolate/local/chocolate7.webp";
+import COFFIMPO from "./assets/coffe/import/coffee.webp";
+import COFFIMPO2 from "./assets/coffe/import/coffee2.webp";
+import COFFIMPO3 from "./assets/coffe/import/coffee3.webp";
+import COFFIMPO4 from "./assets/coffe/import/coffee4.webp";
+import COFFIMPO5 from "./assets/coffe/import/coffee5.webp";
+import COFFIMPO6 from "./assets/coffe/import/coffee6.webp";
+import COFFIMPO7 from "./assets/coffe/import/coffee7.webp";
+import COFFIMPO8 from "./assets/coffe/import/coffee8.webp";
+import COFFIMPO9 from "./assets/coffe/import/coffee9.webp";
+import COFFIMPO10 from "./assets/coffe/import/coffee10.webp";
+import COFFIMPO11 from "./assets/coffe/import/coffee11.webp";
+import COFFIMPO12 from "./assets/coffe/import/coffee12.webp";
+import COFFIMPO13 from "./assets/coffe/import/coffee13.webp";
+import COFFIMPO14 from "./assets/coffe/import/coffee14.webp";
+import COFFIMPO15 from "./assets/coffe/import/coffee15.webp";
+import COFFIMPO16 from "./assets/coffe/import/coffee16.webp";
+import LOCACOFF from "./assets/coffe/Local/coffee.webp";
+import FACEIMPO from "./assets/face cream/import/face cream.avif";
+import FACEIMPO2 from "./assets/face cream/import/face cream2.avif";
+import FACEIMPO3 from "./assets/face cream/import/face cream3.avif";
+import FACEIMPO4 from "./assets/face cream/import/face cream4.avif";
+import FACEIMPO5 from "./assets/face cream/import/face cream5.avif";
+import FACEIMPO6 from "./assets/face cream/import/face cream6.avif";
+import FACEIMPO7 from "./assets/face cream/import/face cream7.avif";
+import FACEIMPO8 from "./assets/face cream/import/face cream8.avif";
+import FACEIMPO9 from "./assets/face cream/import/face cream9.avif";
+import FACEIMPO10 from "./assets/face cream/import/face cream10.avif";
+import FACEIMPO11 from "./assets/face cream/import/face cream11.jfif";
+import FACEIMPO12 from "./assets/face cream/import/face cream12.jfif";
+import FACEIMPO13 from "./assets/face cream/import/face cream13.jfif";
+import FACEIMPO14 from "./assets/face cream/import/face cream14.jfif";
+import FACEIMPO15 from "./assets/face cream/import/face cream15.jfif";
+import FACEIMPO16 from "./assets/face cream/import/face cream16.jfif";
+import FACEIMPO17 from "./assets/face cream/import/face cream17.jfif";
+import FACEIMPO18 from "./assets/face cream/import/face cream18.jfif";
+import FACEIMPO19 from "./assets/face cream/import/face cream19.webp";
+import FACEIMPO20 from "./assets/face cream/import/face cream20.webp";
+import FACEIMPO21 from "./assets/face cream/import/face cream21.webp";
+import FACEIMPO22 from "./assets/face cream/import/face cream22.webp";
+import LOCAFACE from "./assets/face cream/local/face cream.jfif";
+import LOCAFACE2 from "./assets/face cream/local/face cream2.jfif";
+import LOCAFACE3 from "./assets/face cream/local/face cream3.jfif";
+
 
 
 export default function App() {
@@ -349,62 +432,132 @@ export default function App() {
         { url: LOCADISH9, caption: "Dish wash - Local Product" }
       ]
     },
+    {
+      id: 11,
+      title: "BISCUIT",
+      Image: [
+        { url: BISCUITIM, caption: "Biscuit - International Product" },
+        { url: LOCABIS, caption: "Biscuit - Local Product" },
+        { url: LOCABIS2, caption: "Biscuit - Local Product" },
+        { url: LOCABIS3, caption: "Biscuit - Local Product" },
+        { url: LOCABIS4, caption: "Biscuit - Local Product" },
+        { url: LOCABIS5, caption: "Biscuit - Local Product" },
+        { url: LOCABIS6, caption: "Biscuit - Local Product" },
+        { url: LOCABIS7, caption: "Biscuit - Local Product" },
+        { url: LOCABIS8, caption: "Biscuit - Local Product" },
+        { url: LOCABIS9, caption: "Biscuit - Local Product" },
+        { url: LOCABIS10, caption: "Biscuit - Local Product" },
+        { url: LOCABIS11, caption: "Biscuit - Local Product" },
+        { url: LOCABIS12, caption: "Biscuit - Local Product" },
+        { url: LOCABIS13, caption: "Biscuit - Local Product" },
+        { url: LOCABIS14, caption: "Biscuit - Local Product" }
+      ]
+    },
+    {
+      id: 12,
+      title: "CANDY",
+      Image: [
+        { url: LOCANDY, caption: "Candy - Local Product" },
+        { url: CANIMPO, caption: "Candy - International Product" },
+        { url: LOCANDY2, caption: "Candy - Local Product" },
+        { url: CANIMPO2, caption: "Candy - International Product" },
+        { url: LOCANDY3, caption: "Candy - Local Product" },
+        { url: CANIMPO3, caption: "Candy - International Product" },
+        { url: CANIMPO4, caption: "Candy - International Product" },
+        { url: CANIMPO5, caption: "Candy - International Product" },
+        { url: CANIMPO6, caption: "Candy - International Product" }
+        
+      ]
+    },
+    {
+      id: 13,
+      title: "CHOCLETE",
+      Image: [
+        { url: CHOCIMPO, caption: "Choclete - Internationa Product" },
+        { url: LOCACHOC, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO2, caption: "Choclete - Internationa Product" },
+        { url: LOCACHOC2, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO3, caption: "Choclete - International Product" },
+        { url: LOCACHOC3, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO4, caption: "Choclete - Internationa Product" },
+        { url: LOCACHOC4, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO5, caption: "Choclete - Internationa Product" },
+        { url: LOCACHOC5, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO6, caption: "Choclete - Internationa Product" },
+        { url: LOCACHOC6, caption: "Choclete - Local Product" },
+        { url: CHOCIMPO7, caption: "Choclete - Internationa Product" },
+        { url: CHOCIMPO8, caption: "Choclete - Internationa Product" },
+        { url: CHOCIMPO9, caption: "Choclete - Internationa Product" },
+        
+        ]
+    },
+    {
+      id: 14,
+      title: "COFFE",
+      Image: [
+        { url: LOCACOFF, caption: "Coffe - Local Product" },
+        { url: COFFIMPO, caption: "Coffe - International Product" },
+        { url: COFFIMPO2, caption: "Coffe - International Product" },
+        { url: COFFIMPO3, caption: "Coffe - International Product" },
+        { url: COFFIMPO4, caption: "Coffe - International Product" },
+        { url: COFFIMPO5, caption: "Coffe - International Product" },
+        { url: COFFIMPO6, caption: "Coffe - International Product" },
+        { url: COFFIMPO7, caption: "Coffe - International Product" },
+        { url: COFFIMPO8, caption: "Coffe - International Product" },
+        { url: COFFIMPO9, caption: "Coffe - International Product" },
+        { url: COFFIMPO10, caption: "Coffe - International Product" },
+        { url: COFFIMPO11, caption: "Coffe - International Product" },
+        { url: COFFIMPO12, caption: "Coffe - International Product" },
+        { url: COFFIMPO13, caption: "Coffe - International Product" },
+        { url: COFFIMPO14, caption: "Coffe - International Product" },
+        { url: COFFIMPO15, caption: "Coffe - International Product" },
+        { url: COFFIMPO16, caption: "Coffe - International Product" }
+        
+        
+
+        
+      ]
+    },
+    {
+      id: 15,
+      title: "FACE CREAM",
+      Image: [
+        { url: LOCAFACE, caption: "Face Cream - Local Product" },
+        { url: FACEIMPO, caption: "Face Cream  - International Product" },
+        { url: LOCAFACE2, caption: "Face Cream - Local Product" },
+        { url: FACEIMPO2, caption: "Face Cream  - International Product" },
+        { url: LOCAFACE3, caption: "Face Cream - Local Product" },
+        { url: FACEIMPO3, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO4, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO5, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO6, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO7, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO8, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO9, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO10, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO11, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO12, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO13, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO14, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO15, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO16, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO17, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO18, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO19, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO20, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO21, caption: "Face Cream  - International Product" },
+        { url: FACEIMPO22, caption: "Face Cream  - International Product" }
+       
+
+        
+      ]
+    },
   ]);
 
   const [productList] = useState([
     {
       id: 1,
       title: "MOBILE",
-      Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
-    },
-    {
-      id: 2,
-      title: "DIGITAL CAMERA",
-      Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
-    },
-    {
-      id: 3,
-      title: "PAD",
-      Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
-    },
-    {
-      id: 4,
-      title: "HEAD PHONE",
-      Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
-    },
-    {
-      id: 5,
-      title: "CHARGER",
-      Image: [
-        { url: SOAP, caption: "SOAP - Local Product" },
-        { url: SOAP2, caption: "SOAP - International Product" },
-        { url: SOAP3, caption: "SOAP - Local Product" },
-        { url: SOAP4, caption: "SOAP - International Product" }
-      ]
-    },
-    {
-      id: 6,
-      title: "BATTERY",
       Image: [
         { url: SOAP, caption: "SOAP - Local Product" },
         { url: SOAP2, caption: "SOAP - International Product" },
@@ -439,7 +592,7 @@ export default function App() {
               <button
                 key={book.id}
                 onClick={() => handleShow(book.id, "book")}
-                className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition"
+                className="bg-green-500 text-white py-2 px-4 rounded hover:bg-red-600 transition"
                 aria-label={`Show details for Book ${book.title}`}
               >
                  {book.title}
@@ -455,7 +608,7 @@ export default function App() {
               <button
                 key={product.id}
                 onClick={() => handleShow(product.id, "product")}
-                className="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600 transition"
+                className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-green-600 transition"
                 aria-label={`Show details for Product ${product.title}`}
               >
                 {product.title}
