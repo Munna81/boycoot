@@ -220,6 +220,63 @@ import FACEIMPO22 from "./assets/face cream/import/face cream22.webp";
 import LOCAFACE from "./assets/face cream/local/face cream.jfif";
 import LOCAFACE2 from "./assets/face cream/local/face cream2.jfif";
 import LOCAFACE3 from "./assets/face cream/local/face cream3.jfif";
+import WASHIMPO from "./assets/face wash/import/face wash.jpg";
+import WASHIMPO2 from "./assets/face wash/import/face wash2.webp";
+import WASHIMPO3 from "./assets/face wash/import/face wash3.jpg";
+import WASHIMPO4 from "./assets/face wash/import/face wash4.webp";
+import WASHIMPO5 from "./assets/face wash/import/face wash5.webp";
+import WASHIMPO6 from "./assets/face wash/import/face wash6.jpg";
+import WASHIMPO7 from "./assets/face wash/import/face wash7.webp";
+import WASHIMPO8 from "./assets/face wash/import/face wash8.webp";
+import WASHIMPO9 from "./assets/face wash/import/face wash9.webp";
+import WASHIMPO10 from "./assets/face wash/import/face wash10.webp";
+import WASHIMPO11 from "./assets/face wash/import/face wash11.webp";
+import WASHIMPO12 from "./assets/face wash/import/face wash12.webp";
+import WASHIMPO13 from "./assets/face wash/import/face wash13.webp";
+import WASHIMPO14 from "./assets/face wash/import/face wash14.webp";
+import WASHIMPO15 from "./assets/face wash/import/face wash15.webp";
+import WASHIMPO16 from "./assets/face wash/import/face wash16.webp";
+import WASHIMPO17 from "./assets/face wash/import/face wash17.webp";
+import WASHIMPO18 from "./assets/face wash/import/face wash18.webp";
+import WASHIMPO19 from "./assets/face wash/import/face wash19.webp";
+import WASHIMPO20 from "./assets/face wash/import/face wash20.webp";
+import LOCAWASH from "./assets/face wash/Local/face wash.jpg";
+import LOCAWASH2 from "./assets/face wash/Local/face wash2.webp";
+import LOCAWASH3 from "./assets/face wash/Local/face wash3.webp";
+import LOCAWASH4 from "./assets/face wash/Local/face wash4.webp";
+import LOCAWASH5 from "./assets/face wash/Local/face wash5.webp";
+import LOCAWASH6 from "./assets/face wash/Local/face wash6.webp";
+import LOCAWASH7 from "./assets/face wash/Local/face wash7.webp";
+import LOCAWASH8 from "./assets/face wash/Local/face wash8.webp";
+import LOCAWASH9 from "./assets/face wash/Local/face wash9.webp";
+import LOCAWASH10 from "./assets/face wash/Local/face wash10.webp";
+import FORMUIMPO from "./assets/formula milk/import/milk.webp";
+import FORMUIMPO2 from "./assets/formula milk/import/milk2.webp";
+import FORMUIMPO3 from "./assets/formula milk/import/milk3.webp";
+import FORMUIMPO4 from "./assets/formula milk/import/milk4.webp";
+import FORMUIMPO5 from "./assets/formula milk/import/milk5.webp";
+import LOCAFORMULA from "./assets/formula milk/local/milk.webp";
+import LOCAFORMULA2 from "./assets/formula milk/local/milk2.webp";
+import OILIMPO from "./assets/hair oil/import/hair oil.webp";
+import OILIMPO2 from "./assets/hair oil/import/hair oil2.webp";
+import OILIMPO3 from "./assets/hair oil/import/hair oil3.webp";
+import OILIMPO4 from "./assets/hair oil/import/hair oil4.webp";
+import OILIMPO5 from "./assets/hair oil/import/hair oil5.webp";
+import OILIMPO6 from "./assets/hair oil/import/hair oil6.webp";
+import LOCAOIL from "./assets/hair oil/local/hair oil.webp";
+import LOCAOIL2 from "./assets/hair oil/local/hair oil2.webp";
+import LOCAOIL3 from "./assets/hair oil/local/hair oil3.webp";
+import LOCAOIL4 from "./assets/hair oil/local/hair oil4.webp";
+import LOCAOIL5 from "./assets/hair oil/local/hair oil5.webp";
+import LOCAOIL6 from "./assets/hair oil/local/hair oil6.webp";
+import LOCAOIL7 from "./assets/hair oil/local/hair oil7.webp";
+import LOCAOIL8 from "./assets/hair oil/local/hair oil8.webp";
+import LOCAOIL9 from "./assets/hair oil/local/hair oil9.webp";
+import LOCAOIL10 from "./assets/hair oil/local/hair oil10.webp";
+import LOCAOIL11 from "./assets/hair oil/local/hair oil11.webp";
+import LOCAOIL12 from "./assets/hair oil/local/hair oil12.webp";
+import LOCAOIL13 from "./assets/hair oil/local/hair oil13.webp";
+import LOCAOIL14 from "./assets/hair oil/local/hair oil14.webp";
 
 
 
@@ -547,6 +604,88 @@ export default function App() {
         { url: FACEIMPO20, caption: "Face Cream  - International Product" },
         { url: FACEIMPO21, caption: "Face Cream  - International Product" },
         { url: FACEIMPO22, caption: "Face Cream  - International Product" }
+       
+
+        
+      ]
+    },
+    {
+      id: 16,
+      title: "FACE WASH",
+      Image: [
+        { url: WASHIMPO, caption: "Face Wash - International Product" },
+        { url: LOCAWASH, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO2, caption: "Face Wash - International Product" },
+        { url: LOCAWASH2, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO3, caption: "Face Wash - International Product" },
+        { url: LOCAWASH3, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO4, caption: "Face Wash - International Product" },
+        { url: LOCAWASH4, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO5, caption: "Face Wash - International Product" },
+        { url: LOCAWASH5, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO6, caption: "Face Wash - International Product" },
+        { url: LOCAWASH6, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO7, caption: "Face Wash - International Product" },
+        { url: LOCAWASH7, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO8, caption: "Face Wash - International Product" },
+        { url: LOCAWASH8, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO9, caption: "Face Wash - International Product" },
+        { url: LOCAWASH9, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO10, caption: "Face Wash - International Product" },
+        { url: LOCAWASH10, caption: "Face Wash - Local Product" },
+        { url: WASHIMPO11, caption: "Face Wash - International Product" },
+        { url: WASHIMPO12, caption: "Face Wash - International Product" },
+        { url: WASHIMPO13, caption: "Face Wash - International Product" },
+        { url: WASHIMPO14, caption: "Face Wash - International Product" },
+        { url: WASHIMPO15, caption: "Face Wash - International Product" },
+        { url: WASHIMPO16, caption: "Face Wash - International Product" },
+        { url: WASHIMPO17, caption: "Face Wash - International Product" },
+        { url: WASHIMPO18, caption: "Face Wash - International Product" },
+        { url: WASHIMPO19, caption: "Face Wash - International Product" },
+        { url: WASHIMPO20, caption: "Face Wash - International Product" }
+        
+
+        
+      ]
+    },
+    {
+      id: 17,
+      title: "FORMULA MILK",
+      Image: [
+        { url: FORMUIMPO, caption: "Formula Milk - International Product" },
+        { url: LOCAFORMULA, caption: "Formula Milk - Local Product" },
+        { url: FORMUIMPO2, caption: "Formula Milk - International Product" },
+        { url: LOCAFORMULA2, caption: "Formula Milk - Local Product" },
+        { url: FORMUIMPO3, caption: "Formula Milk - International Product" },
+        { url: FORMUIMPO4, caption: "Formula Milk - International Product" },
+        { url: FORMUIMPO5, caption: "Formula Milk - International Product" }
+        
+      ]
+    },
+    {
+      id: 18,
+      title: "HAIR OIL",
+      Image: [
+        { url: OILIMPO, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL, caption: "Hair Oil - Local Product" },
+        { url: OILIMPO2, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL2, caption: "Hair Oil - Local Product" },
+        { url: OILIMPO3, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL3, caption: "Hair Oil - Local Product" },
+        { url: OILIMPO4, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL4, caption: "Hair Oil - Local Product" },
+        { url: OILIMPO5, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL5, caption: "Hair Oil - Local Product" },
+        { url: OILIMPO6, caption: "Hair Oil- International Product" },
+        { url: LOCAOIL6, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL7, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL8, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL9, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL10, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL11, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL12, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL13, caption: "Hair Oil - Local Product" },
+        { url: LOCAOIL14, caption: "Hair Oil - Local Product" }
        
 
         
