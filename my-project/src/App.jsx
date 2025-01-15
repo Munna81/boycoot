@@ -779,7 +779,7 @@ export default function App() {
                       <img
                         src={img.url}
                         alt={img.caption}
-                        className="w-32 h-32 object-cover mb-2 rounded"
+                        className="w-48 h-48 object-cover mb-4 rounded-lg shadow-lg transition-transform transfrom hover:scale-105"
                       />
                       <p className="text-center text-gray-600">{img.caption}</p>
                     </div>
